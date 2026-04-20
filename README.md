@@ -42,10 +42,8 @@ The calendar includes:
 - Learn GitHub project management
 
 ## 📸 Screenshots:
-
-
-
----
+![Social meadia content calendar](screenshot1.png)
+![Canva_creatives](
 
 ## 📘 Learnings:
 
