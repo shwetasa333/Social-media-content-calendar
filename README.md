@@ -44,6 +44,7 @@ The calendar includes:
 ## 📸 Screenshots:
 Content Calendar
 ![Social meadia content calendar](screenshot1.png)
+
 Canva Creatives
 ![Canva_creatives](Screenshot2.png)
 
