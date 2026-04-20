@@ -43,7 +43,7 @@ The calendar includes:
 
 ## 📸 Screenshots:
 ![Social meadia content calendar](screenshot1.png)
-![Canva_creatives](
+![Canva_creatives](Screenshot2.png)
 
 ## 📘 Learnings:
 
@@ -57,7 +57,7 @@ From this project, I learned:
 
 ---
 
-## ✅ Conclusion:
+## Conclusion:
 
 This project helped me understand social media planning, 
 content strategy, and branding techniques used by businesses.
