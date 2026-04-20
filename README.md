@@ -43,7 +43,7 @@ The calendar includes:
 
 ## 📸 Screenshots:
 ![Social meadia content calendar](screenshot1.png)
-![Canva_creatives](Screenshot2.png)
+![Canva_creatives](Screenshot 2.png)
 
 ## 📘 Learnings:
 
